@@ -100,8 +100,8 @@
 | 项目 | 说明 | 链接 |
 |------|------|------|
 | stats.lua 汉化版 🔥🔥 | 播放统计信息界面汉化 | [yosh-wang/mpv-stats.lua-zh](https://github.com/yosh-wang/mpv-stats.lua-zh-chinese-translation-) |
-| auto_bluray | 蓝光原盘 ISO 自动挂载播放方案 | [yosh-wang/auto_bluray-ISO](https://github.com/yosh-wang/auto_bluray-ISO-) |
-| uosc Video Tags | 视频技术标签模块 | [yosh-wang/uosc-video-tags](https://github.com/yosh-wang/uosc-video-tags) |
+| auto_bluray 🔥🔥 | 蓝光原盘 ISO 自动挂载播放方案 | [yosh-wang/auto_bluray-ISO](https://github.com/yosh-wang/auto_bluray-ISO-) |
+| uosc Video Tags 🔥🔥 | 视频技术标签模块 | [yosh-wang/uosc-video-tags](https://github.com/yosh-wang/uosc-video-tags) |
 
 ---
 
