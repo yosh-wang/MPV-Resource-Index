@@ -40,22 +40,131 @@
 
 ---
 
+## 📦 MPV 生态资源大全
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎬-mpv中文统计脚本-00ADEF?style=for-the-badge&logo=mpv&logoColor=white" alt="mpv中文统计脚本">
-</p>
-
-<p align="center">
-  <strong>✨ 完整汉化 · 即装即用 · 与原版功能同步 ✨</strong>
-</p>
-
-> [!IMPORTANT]
-> 🚫 **非商业使用声明**
->
-> 本项目仅供 **个人学习、研究和非商业用途** 使用，**严禁任何形式的商业使用**。
->
-> 📄 详见 [LICENSE.md](LICENSE.md)
+以下链接覆盖官方、PC端、Android端及实用插件，建议收藏。
 
 ---
 
+### 1. MPV 播放器官方资源
 
+| 资源 | 链接 |
+|------|------|
+| 官网 | https://mpv.io/ |
+| 官方手册 | https://mpv.io/manual/master/ |
+| GitHub 仓库 | https://github.com/mpv-player/mpv |
+| 社区 Wiki | https://github.com/mpv-player/mpv/wiki |
+| 下载安装 | https://mpv.io/installation/ |
+| Bug 反馈 | https://github.com/mpv-player/mpv/issues |
+
+---
+
+### 2. PC 端第三方编译版（纯净软件，无配置包）
+
+| 维护者 | 链接 |
+|--------|------|
+| shinchiro | https://github.com/shinchiro/mpv-winbuild-cmake/releases |
+| zhongfly | https://github.com/zhongfly/mpv-winbuild/releases |
+| dyphire | https://github.com/dyphire/mpv-winbuild/releases |
+
+---
+
+### 3. 整合包推荐（带图形界面 UI / 配置文件）
+
+| 项目 | 说明 | 链接 |
+|------|------|------|
+| dyphire/mpv-config | 杜比视界 / HDR 直通 / 图形化 GUI 全配置 | [前往仓库](https://github.com/dyphire/mpv-config) |
+| hooke007/mpv_PlayKit | 中文注释配置 / 汉化文档 / 懒人包 | [前往仓库](https://github.com/hooke007/mpv_PlayKit) |
+| MPV-EASY-Player | 开箱即用的图形界面播放器 | [前往仓库](https://github.com/422658476/MPV-EASY-Player) |
+| Yaozhil/mpv-config | 个人配置方案 | [前往仓库](https://github.com/Yaozhil/mpv-config) |
+
+---
+
+### 4. Android 端播放器
+
+| 项目 | 链接 |
+|------|------|
+| 官方安卓 | [mpv-android](https://github.com/mpv-android/mpv-android) |
+| NextPlayerCloud | [NextPlayerCloud](https://github.com/NextPlayerCloud/NextPlayerCloud) |
+| mpvRx | [mpvRx](https://github.com/Riteshp2001/mpvRx) |
+| mpvRex | [mpvRex](https://github.com/sfsakhawat999/mpvRex) |
+| mpvEx | [mpvEx](https://github.com/marlboro-advance/mpvEx) |
+| mpvEx-CN | [mpvEx-CN](https://github.com/azxcvn/mpvEx-CN) |
+| Android TV (mpvNova) | [mpvNova](https://github.com/Laskco/mpvNova) |
+
+---
+
+### 5. 实用脚本 / 插件
+
+| 项目 | 说明 | 链接 |
+|------|------|------|
+| stats.lua 汉化版 | 播放统计信息界面汉化 | [yosh-wang/mpv-stats.lua-zh](https://github.com/yosh-wang/mpv-stats.lua-zh-chinese-translation-) |
+| auto_bluray | 蓝光原盘 ISO 自动挂载播放方案 | [yosh-wang/auto_bluray-ISO](https://github.com/yosh-wang/auto_bluray-ISO-) |
+| uosc Video Tags | 视频技术标签模块 | [yosh-wang/uosc-video-tags](https://github.com/yosh-wang/uosc-video-tags) |
+
+---
+
+### 6. HDR 直通播放
+
+| 资源 | 链接 |
+|------|------|
+| HDR 直通相关讨论 | https://github.com/dyphire/mpv-config/discussions/213#discussioncomment-13216985 |
+| hdr_mode.conf | https://github.com/dyphire/mpv-config/blob/master/script-opts/hdr_mode.conf |
+| hdr-mode.lua | https://github.com/dyphire/mpv-config/blob/master/scripts/hdr-mode.lua |
+| display-info.dll | https://github.com/dyphire/mpv-config/blob/master/scripts/display-info.dll |
+
+---
+
+### 7. AI 字幕（sub_fastwhisper）★★★★★
+
+> 基于 FastWhisper 的 AI 字幕生成与翻译方案
+
+| 资源 | 链接 |
+|------|------|
+| AI 字幕主讨论 | https://github.com/dyphire/mpv-config/discussions/164 |
+| 设置教程 1 | https://github.com/dyphire/mpv-config/discussions/164#discussioncomment-11819196 |
+| 设置教程 2 | https://github.com/dyphire/mpv-config/discussions/164#discussioncomment-11944171 |
+
+---
+
+### 8. 快速访问 GitHub
+
+| 工具 | 说明 | 链接 |
+|------|------|------|
+| Watt Toolkit（Steam++） | GitHub 加速访问 | https://steampp.net/ |
+
+---
+
+## 📌 关于本仓库
+
+本仓库是为国内 MPV 爱好者建立的资源索引站，初衷很简单：
+
+- 国内关于 MPV 的论坛和讨论区太少，大家遇到问题交流不便
+- 很多新手不熟悉 GitHub 或英文，上手门槛太高
+- 希望为中文用户提供**互助、分享、共同进步**的空间
+
+所有整理的内容均注明原作者并附上 GitHub 仓库链接，尊重每位开发者的劳动成果。
+
+---
+
+## 🙏 特别致谢
+
+本仓库长期跟进以下开源项目：
+
+- **[dyphire/mpv-config](https://github.com/dyphire/mpv-config)** — 杜比视界 / HDR 直通 / 图形化 GUI 全配置
+- **[hooke007/mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit)** — 中文注释配置 / 汉化文档 / 懒人包
+
+感谢以上大佬的辛勤付出！本仓库纯属热心整理，如作者认为有任何不妥，请随时告知，我会第一时间处理。🙏
+
+---
+
+## 💡 交流方向
+
+| 类别 | 内容 |
+|------|------|
+| 🔧 编译 & 安装 | Windows / Linux / macOS |
+| ⚙️ 配置调优 | mpv.conf / input.conf |
+| 📜 脚本开发 | OSC 修改 / 弹幕下载 / 补帧 / AI 字幕 |
+| 🐛 Bug 排查 | 解码报错 / 渲染撕裂 / 音画不同步 |
+| 📦 编译版更新 | shinchiro / zhongfly / dyphire |
+| 📱 移动端适配 | Android / TV 端移植 |
