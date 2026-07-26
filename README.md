@@ -61,11 +61,11 @@
 
 ### 2. PC端编译版（纯净软件，无配置包）
 
-| 维护者 | 说明 | 链接 | 微云下载 | 夸克下载 |
-|--------|------|------|----------|----------|
-| shinchiro | 只有软件、无配置包 | https://github.com/shinchiro/mpv-winbuild-cmake/releases | https://share.weiyun.com/YfWKGlfe | https://pan.quark.cn/s/c2ab672d1d47 |
-| zhongfly | 只有软件、无配置包 | https://github.com/zhongfly/mpv-winbuild/releases | — | — |
-| dyphire ★★★★★ | 只有软件、无配置包 · 推荐 | https://github.com/dyphire/mpv-winbuild/releases | — | — |
+| 维护者 | 链接 | 微云下载 | 夸克下载 |
+|--------|------|----------|----------|
+| shinchiro | https://github.com/shinchiro/mpv-winbuild-cmake/releases | https://share.weiyun.com/YfWKGlfe | https://pan.quark.cn/s/c2ab672d1d47 |
+| zhongfly | https://github.com/zhongfly/mpv-winbuild/releases | — | — |
+| dyphire | https://github.com/dyphire/mpv-winbuild/releases | — | — |
 
 ---
 
@@ -84,8 +84,8 @@
 | 项目 | 特色 | 链接 | 微云下载 | 夸克下载 |
 |------|------|------|----------|----------|
 | 官方安卓 | MPV 官方维护的 Android 版本 | https://github.com/mpv-android/mpv-android | https://share.weiyun.com/6v2y6uuI | https://pan.quark.cn/s/8a10888fc561 |
-| NextPlayerCloud ★★★★★ | 支持云端同步播放进度 · 推荐 | https://github.com/NextPlayerCloud/NextPlayerCloud | — | — |
-| mpvRx ★★★★ | 基于 RxJava 响应式架构 · 推荐 | https://github.com/Riteshp2001/mpvRx | — | — |
+| NextPlayerCloud | 支持云端同步播放进度 | https://github.com/NextPlayerCloud/NextPlayerCloud | — | — |
+| mpvRx | 基于 RxJava 响应式架构 | https://github.com/Riteshp2001/mpvRx | — | — |
 | mpvRex | 功能增强扩展版 | https://github.com/sfsakhawat999/mpvRex | — | — |
 | mpvEx | 轻量化精简版本 | https://github.com/marlboro-advance/mpvEx | — | — |
 | mpvEx-CN | mpvEx 中文定制版 | https://github.com/azxcvn/mpvEx-CN | — | — |
