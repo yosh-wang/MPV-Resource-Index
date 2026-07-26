@@ -143,13 +143,13 @@
 
 | 项目 | 说明 | GITHUB.链接 |
 |------|------|------|
-| tomasklaen/uosc 🔥🔥🔥 | 基于鼠标距离感应的极简现代UI，生态完善 | [tomasklaen/uosc](https://github.com/tomasklaen/uosc) |
-| Samillion/ModernZ 🔥🔥 | 高度可定制，支持多种布局/图标主题/颜色 | [Samillion/ModernZ](https://github.com/Samillion/ModernZ) |
-| zydezu/ModernX 🔥🔥 | Modern分支，含在线视频下载/信息显示 | [zydezu/ModernX](https://github.com/zydezu/ModernX) |
+| tomasklaen/uosc 🔥🔥🔥 | 社区 NO.1 极简现代UI，生态完善 | [tomasklaen/uosc](https://github.com/tomasklaen/uosc) |
+| Samillion/ModernZ 🔥🔥 | 高度可定制，多种布局/图标主题/颜色 | [Samillion/ModernZ](https://github.com/Samillion/ModernZ) |
+| zydezu/ModernX 🔥🔥 | Modern分支 在线视频下载/信息显示 | [zydezu/ModernX](https://github.com/zydezu/ModernX) |
 | HarkeshBhatia/ModernH 🔥 | Netflix风格底部栏，平滑动画覆盖菜单 | [HarkeshBhatia/ModernH](https://github.com/HarkeshBhatia/ModernH) |
-| Qiyue0726/awesome-osc | FontAwesome图标，底部按钮自定义布局 | [Qiyue0726/awesome-osc](https://github.com/Qiyue0726/awesome-osc) |
+| Qiyue0726/awesome-osc | FontAwesome图标，按钮自定义布局 | [Qiyue0726/awesome-osc](https://github.com/Qiyue0726/awesome-osc) |
 | FinnRaze/mpv-osc-modern-f | 音轨/字幕轨选择便捷，三种布局切换 | [FinnRaze/mpv-osc-modern-f](https://github.com/FinnRaze/mpv-osc-modern-f) |
-| Zren/mpv-osc-tethys | bomi图标集，含画中画/缩略图预览 | [Zren/mpv-osc-tethys](https://github.com/Zren/mpv-osc-tethys) |
+| Zren/mpv-osc-tethys | bomi图标集，画中画/缩略图预览 | [Zren/mpv-osc-tethys](https://github.com/Zren/mpv-osc-tethys) |
 | 1-minute-to-midnight/mpv-modern-x-compact | 精简紧凑版，网页播放器风格 | [1-minute-to-midnight/mpv-modern-x-compact](https://github.com/1-minute-to-midnight/mpv-modern-x-compact) |
 | maoiscat/mpv-osc-modern | 多数现代OSC的起源，基于内置OSC修改 | [maoiscat/mpv-osc-modern](https://github.com/maoiscat/mpv-osc-modern) |
 
