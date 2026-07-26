@@ -63,7 +63,7 @@
 
 | 维护者 | 链接 | 微云下载 | 夸克下载 |
 |--------|------|----------|----------|
-| shinchiro | [shinchiro/mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake/releases) | https://share.weiyun.com/YfWKGlfe | https://pan.quark.cn/s/c2ab672d1d47 |
+| shinchiro | [shinchiro/mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
 | zhongfly | [zhongfly/mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases) | — | — |
 | dyphire | [dyphire/mpv-winbuild](https://github.com/dyphire/mpv-winbuild/releases) | — | — |
 
@@ -73,9 +73,9 @@
 
 | 项目 | 说明 | 链接 | 微云下载 | 夸克下载 |
 |------|------|------|----------|----------|
-| dyphire/mpv-config | 杜比视界 / HDR 直通 / 图形化 GUI 全配置 | [dyphire/mpv-config](https://github.com/dyphire/mpv-config) | https://share.weiyun.com/yT0v48Fm | https://pan.quark.cn/s/06e105d5a34d |
-| hooke007/mpv_PlayKit | 中文注释配置 / 汉化文档 / 懒人包 | [hooke007/mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit) | https://share.weiyun.com/EmG9jBG2 | https://pan.quark.cn/s/bb8a104dd066 |
-| MPV-EASY-Player | 开箱即用的图形界面播放器 | [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | https://share.weiyun.com/UGIn1bGz | https://pan.quark.cn/s/6c19322f8eba |
+| dyphire/mpv-config | 杜比视界 / HDR 直通 / 图形化 GUI 全配置 | [dyphire/mpv-config](https://github.com/dyphire/mpv-config) | [微云下载](https://share.weiyun.com/yT0v48Fm) | [夸克下载](https://pan.quark.cn/s/06e105d5a34d) |
+| hooke007/mpv_PlayKit | 中文注释配置 / 汉化文档 / 懒人包 | [hooke007/mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit) | [微云下载](https://share.weiyun.com/EmG9jBG2) | [夸克下载](https://pan.quark.cn/s/bb8a104dd066) |
+| MPV-EASY-Player | 开箱即用的图形界面播放器 | [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | [微云下载](https://share.weiyun.com/UGIn1bGz) | [夸克下载](https://pan.quark.cn/s/6c19322f8eba) |
 
 ---
 
@@ -83,7 +83,7 @@
 
 | 项目 | 特色 | 链接 | 微云下载 | 夸克下载 |
 |------|------|------|----------|----------|
-| 官方安卓 | MPV 官方维护的 Android 版本 | [mpv-android](https://github.com/mpv-android/mpv-android) | https://share.weiyun.com/6v2y6uuI | https://pan.quark.cn/s/8a10888fc561 |
+| 官方安卓 | MPV 官方维护的 Android 版本 | [mpv-android](https://github.com/mpv-android/mpv-android) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
 | NextPlayerCloud | 支持云端同步播放进度 | [NextPlayerCloud](https://github.com/NextPlayerCloud/NextPlayerCloud) | — | — |
 | mpvRx | 基于 RxJava 响应式架构 | [mpvRx](https://github.com/Riteshp2001/mpvRx) | — | — |
 | mpvRex | 功能增强扩展版 | [mpvRex](https://github.com/sfsakhawat999/mpvRex) | — | — |
