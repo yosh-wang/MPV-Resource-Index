@@ -61,7 +61,7 @@
 
 ### 2. PC端编译版（纯净软件，无配置包）
 
-| 维护者 | github.下载链接 | 微云下载 | 夸克下载 |
+| 维护者 | 链接 | 微云下载 | 夸克下载 |
 |--------|------|----------|----------|
 | shinchiro | [shinchiro/mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
 | zhongfly | [zhongfly/mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
@@ -71,17 +71,19 @@
 
 ### 3. 整合包推荐（带图形界面 UI / 配置文件）
 
-| 项目 | 说明 | github.下载链接 | 微云下载 | 夸克下载 |
+| 项目 | 说明 | 链接 | 微云下载 | 夸克下载 |
 |------|------|------|----------|----------|
 | dyphire/mpv-config | 杜比视界 / HDR 直通 / 图形化 GUI 全配置 | [dyphire/mpv-config](https://github.com/dyphire/mpv-config) | [微云下载](https://share.weiyun.com/yT0v48Fm) | [夸克下载](https://pan.quark.cn/s/06e105d5a34d) |
 | hooke007/mpv_PlayKit | 中文注释配置 / 汉化文档 / 懒人包 | [hooke007/mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit) | [微云下载](https://share.weiyun.com/EmG9jBG2) | [夸克下载](https://pan.quark.cn/s/bb8a104dd066) |
 | MPV-EASY-Player | 开箱即用的图形界面播放器 | [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | [微云下载](https://share.weiyun.com/UGIn1bGz) | [夸克下载](https://pan.quark.cn/s/6c19322f8eba) |
+| mpv.net | 基于 .NET 的图形界面 MPV 播放器 | [mpv.net](https://github.com/mpvnet-player/mpv.net) | — | — |
+| mpv.net-DW | mpv.net 的增强定制版 | [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) | — | — |
 
 ---
 
 ### 4. Android 端播放器
 
-| 项目 | 特色 | github.下载链接 | 微云下载 | 夸克下载 |
+| 项目 | 特色 | 链接 | 微云下载 | 夸克下载 |
 |------|------|------|----------|----------|
 | 官方安卓 | MPV 官方维护的 Android 版本 | [mpv-android](https://github.com/mpv-android/mpv-android) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
 | NextPlayerCloud | 支持云端同步播放进度 | [NextPlayerCloud](https://github.com/NextPlayerCloud/NextPlayerCloud) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
@@ -95,7 +97,7 @@
 
 ### 5. 实用脚本 / 插件
 
-| 项目 | 说明 | github.下载链接 |
+| 项目 | 说明 | 链接 |
 |------|------|------|
 | stats.lua 汉化版 | 播放统计信息界面汉化 | [yosh-wang/mpv-stats.lua-zh](https://github.com/yosh-wang/mpv-stats.lua-zh-chinese-translation-) |
 | auto_bluray | 蓝光原盘 ISO 自动挂载播放方案 | [yosh-wang/auto_bluray-ISO](https://github.com/yosh-wang/auto_bluray-ISO-) |
@@ -105,7 +107,7 @@
 
 ### 6. HDR 直通播放
 
-| 资源 | github.链接 |
+| 资源 | 链接 |
 |------|------|
 | HDR 直通相关讨论 | https://github.com/dyphire/mpv-config/discussions/213#discussioncomment-13216985 |
 | hdr_mode.conf | https://github.com/dyphire/mpv-config/blob/master/script-opts/hdr_mode.conf |
@@ -118,7 +120,7 @@
 
 > 基于 FastWhisper 的 AI 字幕生成与翻译方案
 
-| 资源 | github.链接 |
+| 资源 | 链接 |
 |------|------|
 | AI 字幕主讨论 | https://github.com/dyphire/mpv-config/discussions/164 |
 | 设置教程 1 | https://github.com/dyphire/mpv-config/discussions/164#discussioncomment-11819196 |
