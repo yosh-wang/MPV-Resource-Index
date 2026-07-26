@@ -136,3 +136,47 @@
 | Watt Toolkit（Steam++） | GitHub 加速访问 | https://steampp.net/ |
 
 ---
+
+### 9. 皮肤 / UI
+
+> 以下为独立于整合包之外的 MPV 界面增强脚本，用于替换或美化默认 OSC（屏幕控制器）。
+
+| 项目 | 说明 | GITHUB.链接 |
+|------|------|------|
+| tomasklaen/uosc 🔥🔥🔥 | **社区热度最高**，基于鼠标距离感应的极简现代 UI，功能强大，生态完善 | [tomasklaen/uosc](https://github.com/tomasklaen/uosc) |
+| Samillion/ModernZ 🔥🔥 | 高度可定制的现代风格 OSC，支持多种布局、图标主题与颜色 | [Samillion/ModernZ](https://github.com/Samillion/ModernZ) |
+| zydezu/ModernX 🔥🔥 | 功能丰富的 Modern 分支，含在线视频下载、视频信息显示等 | [zydezu/ModernX](https://github.com/zydezu/ModernX) |
+| HarkeshBhatia/ModernH 🔥 | 类 Netflix 底部栏设计，带平滑动画覆盖菜单与智能标题解析 | [HarkeshBhatia/ModernH](https://github.com/HarkeshBhatia/ModernH) |
+| Qiyue0726/awesome-osc | 基于 ModernX，采用 FontAwesome 图标，支持底部按钮自定义布局 | [Qiyue0726/awesome-osc](https://github.com/Qiyue0726/awesome-osc) |
+| FinnRaze/mpv-osc-modern-f | 调整按键布局，音轨/字幕轨选择更便捷，提供三种布局切换 | [FinnRaze/mpv-osc-modern-f](https://github.com/FinnRaze/mpv-osc-modern-f) |
+| Zren/mpv-osc-tethys | 采用 bomi 播放器图标集，含画中画按钮与缩略图预览支持 | [Zren/mpv-osc-tethys](https://github.com/Zren/mpv-osc-tethys) |
+| 1-minute-to-midnight/mpv-modern-x-compact | ModernX 的精简紧凑版，模仿网页播放器风格 | [1-minute-to-midnight/mpv-modern-x-compact](https://github.com/1-minute-to-midnight/mpv-modern-x-compact) |
+| maoiscat/mpv-osc-modern | 多数现代 OSC 的起源项目，基于 mpv 内置 OSC 修改 | [maoiscat/mpv-osc-modern](https://github.com/maoiscat/mpv-osc-modern) |
+
+
+---
+
+### 9. 皮肤 / UI
+
+| 项目 | GITHUB.链接 |
+|------|------|
+| tomasklaen/uosc | https://github.com/tomasklaen/uosc |
+| zydezu/ModernX | https://github.com/zydezu/ModernX |
+| Samillion/ModernZ | https://github.com/Samillion/ModernZ |
+| shuvratobh/mpv_modernz | https://github.com/shuvratobh/mpv_modernz |
+| Qiyue0726/awesome-osc | https://github.com/Qiyue0726/awesome-osc |
+| Zren/mpv-osc-tethys | https://github.com/Zren/mpv-osc-tethys |
+| 1-minute-to-midnight/mpv-modern-x-compact | https://github.com/1-minute-to-midnight/mpv-modern-x-compact |
+| HarkeshBhatia/ModernH | https://github.com/HarkeshBhatia/ModernH |
+| FinnRaze/mpv-osc-modern-f | https://github.com/FinnRaze/mpv-osc-modern-f |
+| maoiscat/mpv-osc-modern | https://github.com/maoiscat/mpv-osc-modern |
+
+
+
+
+
+
+
+
+
+---
