@@ -63,7 +63,7 @@
 
 | 维护者 | GITHUB.链接 | 微云下载 | 夸克下载 |
 |--------|------|----------|----------|
-| shinchiro 🔥🔥 | [shinchiro/mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
+| shinchiro 🔥 | [shinchiro/mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
 | zhongfly | [zhongfly/mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
 | dyphire | [dyphire/mpv-winbuild](https://github.com/dyphire/mpv-winbuild/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
 
@@ -73,8 +73,8 @@
 
 | 项目 | 说明 | GITHUB.链接 | 微云下载 | 夸克下载 |
 |------|------|------|----------|----------|
-| dyphire/mpv-config 🔥🔥 | 杜比视界 / HDR 直通 / 全配置 | [dyphire/mpv-config](https://github.com/dyphire/mpv-config) | [微云下载](https://share.weiyun.com/yT0v48Fm) | [夸克下载](https://pan.quark.cn/s/06e105d5a34d) |
-| hooke007/mpv_PlayKit 🔥🔥 | 超分补帧/ 懒人包 | [hooke007/mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit) | [微云下载](https://share.weiyun.com/EmG9jBG2) | [夸克下载](https://pan.quark.cn/s/bb8a104dd066) |
+| dyphire/mpv-config 🔥 | 杜比视界 / HDR 直通 / 全配置 | [dyphire/mpv-config](https://github.com/dyphire/mpv-config) | [微云下载](https://share.weiyun.com/yT0v48Fm) | [夸克下载](https://pan.quark.cn/s/06e105d5a34d) |
+| hooke007/mpv_PlayKit 🔥 | 超分补帧/ 懒人包 | [hooke007/mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit) | [微云下载](https://share.weiyun.com/EmG9jBG2) | [夸克下载](https://pan.quark.cn/s/bb8a104dd066) |
 | MPV-EASY-Player | 开箱即用的图形界面播放器 | [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | [微云下载](https://share.weiyun.com/UGIn1bGz) | [夸克下载](https://pan.quark.cn/s/6c19322f8eba) |
 | mpv.net | 基于.NET图形界面 | [mpv.net](https://github.com/mpvnet-player/mpv.net) | — | — |
 | mpv.net-DW | mpv.net定制版 | [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) | — | — |
@@ -87,7 +87,7 @@
 | 项目 | 特色 | GITHUB.链接 | 微云下载 | 夸克下载 |
 |------|------|------|----------|----------|
 | 官方安卓 | MPV 官方维护的 Android 版本 | [mpv-android](https://github.com/mpv-android/mpv-android) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
-| NextPlayerCloud 🔥🔥 | 支持云端同步播放进度 | [NextPlayerCloud](https://github.com/NextPlayerCloud/NextPlayerCloud) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| NextPlayerCloud 🔥 | 支持云端同步播放进度 | [NextPlayerCloud](https://github.com/NextPlayerCloud/NextPlayerCloud) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
 | mpvRx | 基于 RxJava 响应式架构 | [mpvRx](https://github.com/Riteshp2001/mpvRx) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
 | mpvRex | 功能增强扩展版 | [mpvRex](https://github.com/sfsakhawat999/mpvRex) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
 | mpvEx | 轻量化精简版本 | [mpvEx](https://github.com/marlboro-advance/mpvEx) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
@@ -100,9 +100,9 @@
 
 | 项目 | 说明 | GITHUB.链接 |
 |------|------|------|
-| stats.lua 汉化版 🔥🔥 | 播放统计信息界面汉化 | [yosh-wang/mpv-stats.lua-zh](https://github.com/yosh-wang/mpv-stats.lua-zh-chinese-translation-) |
-| auto_bluray 🔥🔥 | 蓝光原盘 ISO 自动挂载播放方案 | [yosh-wang/auto_bluray-ISO](https://github.com/yosh-wang/auto_bluray-ISO-) |
-| uosc Video Tags 🔥🔥 | 视频技术标签模块 | [yosh-wang/uosc-video-tags](https://github.com/yosh-wang/uosc-video-tags) |
+| stats.lua 汉化版 🔥 | 播放统计信息界面汉化 | [yosh-wang/mpv-stats.lua-zh](https://github.com/yosh-wang/mpv-stats.lua-zh-chinese-translation-) |
+| auto_bluray 🔥 | 蓝光原盘 ISO 自动挂载播放方案 | [yosh-wang/auto_bluray-ISO](https://github.com/yosh-wang/auto_bluray-ISO-) |
+| uosc Video Tags 🔥 | 视频技术标签模块 | [yosh-wang/uosc-video-tags](https://github.com/yosh-wang/uosc-video-tags) |
 
 ---
 
@@ -110,7 +110,7 @@
 
 | 资源 | GITHUB.链接 |
 |------|------|
-| HDR 直通相关讨论 🔥🔥 | https://github.com/dyphire/mpv-config/discussions/213#discussioncomment-13216985 |
+| HDR 直通相关讨论 🔥 | https://github.com/dyphire/mpv-config/discussions/213#discussioncomment-13216985 |
 | hdr_mode.conf | https://github.com/dyphire/mpv-config/blob/master/script-opts/hdr_mode.conf |
 | hdr-mode.lua | https://github.com/dyphire/mpv-config/blob/master/scripts/hdr-mode.lua |
 | display-info.dll | https://github.com/dyphire/mpv-config/blob/master/scripts/display-info.dll |
@@ -123,7 +123,7 @@
 
 | 资源 | GITHUB.链接 |
 |------|------|
-| AI 字幕主讨论 🔥🔥 | https://github.com/dyphire/mpv-config/discussions/164 |
+| AI 字幕主讨论 🔥 | https://github.com/dyphire/mpv-config/discussions/164 |
 | 设置教程 1 | https://github.com/dyphire/mpv-config/discussions/164#discussioncomment-11819196 |
 | 设置教程 2 | https://github.com/dyphire/mpv-config/discussions/164#discussioncomment-11944171 |
 
