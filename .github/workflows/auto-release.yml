@@ -1,0 +1,54 @@
+name: Manual Release with Commit Messages
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: '版本号 (例如 v17.0.0)'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Get commit messages since last tag
+        id: commit_msgs
+        run: |
+          # 获取上一个 tag
+          LAST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "")
+          echo "LAST_TAG=${LAST_TAG}" >> $GITHUB_OUTPUT
+          
+          # 获取提交信息
+          if [ -z "$LAST_TAG" ]; then
+            COMMITS=$(git log --pretty=format:"- %s (%h)" -n 50)
+          else
+            COMMITS=$(git log ${LAST_TAG}..HEAD --pretty=format:"- %s (%h)")
+          fi
+          
+          # 输出多行
+          echo "MSG<<EOF" >> $GITHUB_OUTPUT
+          echo "$COMMITS" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v3
+        with:
+          files: stats.lua
+          tag_name: ${{ github.event.inputs.version }}
+          name: ${{ github.event.inputs.version }}
+          body: |
+            ## ⭐ [![GitHub downloads](https://img.shields.io/github/downloads/${{ github.repository }}/${{ github.event.inputs.version }}/total?cacheSeconds=300)](https://github.com/${{ github.repository }}/releases/tag/${{ github.event.inputs.version }})
+
+            ### 更新内容
+            ${{ steps.commit_msgs.outputs.MSG }}
+
+            **完整更新日志**：[${{ steps.commit_msgs.outputs.LAST_TAG }}...${{ github.event.inputs.version }}](${{ github.server_url }}/${{ github.repository }}/compare/${{ steps.commit_msgs.outputs.LAST_TAG }}...${{ github.event.inputs.version }})
