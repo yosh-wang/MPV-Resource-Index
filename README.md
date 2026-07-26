@@ -117,7 +117,7 @@
 
 ---
 
-### 7. AI 字幕（sub_fastwhisper）★★★★★
+### 7. AI 字幕（sub_fastwhisper）🔥🔥🔥🔥🔥
 
 > 基于 FastWhisper 的 AI 字幕生成与翻译方案
 
