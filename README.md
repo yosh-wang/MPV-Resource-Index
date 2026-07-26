@@ -63,7 +63,7 @@
 
 | 维护者 | 链接 | 微云下载 | 夸克下载 |
 |--------|------|----------|----------|
-| shinchiro 🔥🔥 | [shinchiro/mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
+| shinchiro 🔥🔥🔥 | [shinchiro/mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
 | zhongfly | [zhongfly/mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
 | dyphire | [dyphire/mpv-winbuild](https://github.com/dyphire/mpv-winbuild/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
 
