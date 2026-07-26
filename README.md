@@ -78,7 +78,7 @@
 | MPV-EASY-Player | 开箱即用的图形界面播放器 | [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | [微云下载](https://share.weiyun.com/UGIn1bGz) | [夸克下载](https://pan.quark.cn/s/6c19322f8eba) |
 | mpv.net | 基于.NET图形界面 | [mpv.net](https://github.com/mpvnet-player/mpv.net) | — | — |
 | mpv.net-DW | mpv.net定制版 | [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) | — | — |
-| Yaozhil/mpv-config | 起播格式徽章/网盘入口/弹幕/片头片尾跳过等 | [Yaozhil/mpv-config](https://github.com/Yaozhil/mpv-config) | — | — |
+| Yaozhil/mpv-config | 格式徽章/网盘/弹幕/片头尾跳过等 | [Yaozhil/mpv-config](https://github.com/Yaozhil/mpv-config) | — | — |
 
 ---
 
