@@ -61,7 +61,7 @@
 
 ### 2. PC端编译版（纯净软件，无配置包）
 
-| 维护者 | 链接 | 微云下载 | 夸克下载 |
+| 维护者 | github.下载链接 | 微云下载 | 夸克下载 |
 |--------|------|----------|----------|
 | shinchiro | [shinchiro/mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
 | zhongfly | [zhongfly/mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
