@@ -150,7 +150,7 @@
 | Qiyue0726/awesome-osc | FontAwesome图标，按钮自定义布局 | [Qiyue0726/awesome-osc](https://github.com/Qiyue0726/awesome-osc) |
 | FinnRaze/mpv-osc-modern-f | 音轨/字幕轨选择便捷，三种布局切换 | [FinnRaze/mpv-osc-modern-f](https://github.com/FinnRaze/mpv-osc-modern-f) |
 | Zren/mpv-osc-tethys | bomi图标集，画中画/缩略图预览 | [Zren/mpv-osc-tethys](https://github.com/Zren/mpv-osc-tethys) |
-| 1-minute-to-midnight/mpv-modern-x-compact | 精简紧凑版，网页播放器风格 | [1-minute-to-midnight/mpv-modern-x-compact](https://github.com/1-minute-to-midnight/mpv-modern-x-compact) |
+| mpv-modern-x-compact | 精简紧凑版，网页播放器风格 | [mpv-modern-x-compact](https://github.com/1-minute-to-midnight/mpv-modern-x-compact) |
 | maoiscat/mpv-osc-modern | 多数现代OSC的起源，基于内置OSC修改 | [maoiscat/mpv-osc-modern](https://github.com/maoiscat/mpv-osc-modern) |
 
 ---
