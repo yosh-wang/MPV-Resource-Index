@@ -81,15 +81,15 @@
 
 ### 4. Android 端播放器
 
-| 项目 | 链接 |
-|------|------|
-| 官方安卓 | [mpv-android](https://github.com/mpv-android/mpv-android) |
-| NextPlayerCloud | [NextPlayerCloud](https://github.com/NextPlayerCloud/NextPlayerCloud) |
-| mpvRx | [mpvRx](https://github.com/Riteshp2001/mpvRx) |
-| mpvRex | [mpvRex](https://github.com/sfsakhawat999/mpvRex) |
-| mpvEx | [mpvEx](https://github.com/marlboro-advance/mpvEx) |
-| mpvEx-CN | [mpvEx-CN](https://github.com/azxcvn/mpvEx-CN) |
-| Android TV (mpvNova) | [mpvNova](https://github.com/Laskco/mpvNova) |
+| 项目 | 特色 | 链接 |
+|------|------|------|
+| 官方安卓 | MPV 官方维护的 Android 版本 | https://github.com/mpv-android/mpv-android |
+| NextPlayerCloud | 支持云端同步播放进度 | https://github.com/NextPlayerCloud/NextPlayerCloud |
+| mpvRx | 基于 RxJava 响应式架构 | https://github.com/Riteshp2001/mpvRx |
+| mpvRex | 功能增强扩展版 | https://github.com/sfsakhawat999/mpvRex |
+| mpvEx | 轻量化精简版本 | https://github.com/marlboro-advance/mpvEx |
+| mpvEx-CN | mpvEx 中文定制版 | https://github.com/azxcvn/mpvEx-CN |
+| Android TV (mpvNova) | 专为 Android TV 优化 | https://github.com/Laskco/mpvNova |
 
 ---
 
