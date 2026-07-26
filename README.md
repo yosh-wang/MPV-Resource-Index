@@ -75,6 +75,7 @@
 |------|------|------|----------|----------|
 | dyphire/mpv-config 🔥🔥 | 杜比视界 / HDR 直通 / 图形化 GUI 全配置 | [dyphire/mpv-config](https://github.com/dyphire/mpv-config) | [微云下载](https://share.weiyun.com/yT0v48Fm) | [夸克下载](https://pan.quark.cn/s/06e105d5a34d) |
 | hooke007/mpv_PlayKit 🔥🔥 | 中文注释配置 / 汉化文档 / 懒人包 | [hooke007/mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit) | [微云下载](https://share.weiyun.com/EmG9jBG2) | [夸克下载](https://pan.quark.cn/s/bb8a104dd066) |
+| Yaozhil/mpv-config | 自制UI整合包，含起播格式徽章/网盘入口/弹幕/片头片尾跳过等 | [Yaozhil/mpv-config](https://github.com/Yaozhil/mpv-config) | — | — |
 | MPV-EASY-Player | 开箱即用的图形界面播放器 | [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | [微云下载](https://share.weiyun.com/UGIn1bGz) | [夸克下载](https://pan.quark.cn/s/6c19322f8eba) |
 | mpv.net | 基于.NET图形界面 | [mpv.net](https://github.com/mpvnet-player/mpv.net) | — | — |
 | mpv.net-DW | mpv.net定制版 | [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) | — | — |
