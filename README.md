@@ -76,7 +76,6 @@
 | dyphire/mpv-config | 杜比视界 / HDR 直通 / 图形化 GUI 全配置 | https://github.com/dyphire/mpv-config |
 | hooke007/mpv_PlayKit | 中文注释配置 / 汉化文档 / 懒人包 | https://github.com/hooke007/mpv_PlayKit |
 | MPV-EASY-Player | 开箱即用的图形界面播放器 | https://github.com/422658476/MPV-EASY-Player |
-| Yaozhil/mpv-config | 个人配置方案 | https://github.com/Yaozhil/mpv-config |
 
 ---
 
