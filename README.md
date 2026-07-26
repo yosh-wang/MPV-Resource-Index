@@ -84,12 +84,12 @@
 | 项目 | 特色 | 链接 | 微云下载 | 夸克下载 |
 |------|------|------|----------|----------|
 | 官方安卓 | MPV 官方维护的 Android 版本 | [mpv-android](https://github.com/mpv-android/mpv-android) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
-| NextPlayerCloud | 支持云端同步播放进度 | [NextPlayerCloud](https://github.com/NextPlayerCloud/NextPlayerCloud) | — | — |
-| mpvRx | 基于 RxJava 响应式架构 | [mpvRx](https://github.com/Riteshp2001/mpvRx) | — | — |
-| mpvRex | 功能增强扩展版 | [mpvRex](https://github.com/sfsakhawat999/mpvRex) | — | — |
-| mpvEx | 轻量化精简版本 | [mpvEx](https://github.com/marlboro-advance/mpvEx) | — | — |
-| mpvEx-CN | mpvEx 中文定制版 | [mpvEx-CN](https://github.com/azxcvn/mpvEx-CN) | — | — |
-| Android TV (mpvNova) | 专为 Android TV 优化 | [mpvNova](https://github.com/Laskco/mpvNova) | — | — |
+| NextPlayerCloud | 支持云端同步播放进度 | [NextPlayerCloud](https://github.com/NextPlayerCloud/NextPlayerCloud) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| mpvRx | 基于 RxJava 响应式架构 | [mpvRx](https://github.com/Riteshp2001/mpvRx) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| mpvRex | 功能增强扩展版 | [mpvRex](https://github.com/sfsakhawat999/mpvRex) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| mpvEx | 轻量化精简版本 | [mpvEx](https://github.com/marlboro-advance/mpvEx) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| mpvEx-CN | mpvEx 中文定制版 | [mpvEx-CN](https://github.com/azxcvn/mpvEx-CN) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| Android TV (mpvNova) | 专为 Android TV 优化 | [mpvNova](https://github.com/Laskco/mpvNova) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
 
 ---
 
