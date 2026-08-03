@@ -152,5 +152,7 @@
 | Zren/mpv-osc-tethys | bomi图标集，画中画/缩略图预览 | [Zren/mpv-osc-tethys](https://github.com/Zren/mpv-osc-tethys) |
 | mpv-modern-x-compact | 精简紧凑版，网页播放器风格 | [mpv-modern-x-compact](https://github.com/1-minute-to-midnight/mpv-modern-x-compact) |
 | maoiscat/mpv-osc-modern | 多数现代OSC的起源，基于内置OSC修改 | [maoiscat/mpv-osc-modern](https://github.com/maoiscat/mpv-osc-modern) |
+| maoiscat/mpv-osc-orange 🔥 | 橙色主题现代OSC，配色醒目富有活力 | [maoiscat/mpv-osc-orange](https://github.com/maoiscat/mpv-osc-orange) |
+| maoiscat/mpv-osc-modern | 多数现代OSC的起源，基于内置OSC修改 | [maoiscat/mpv-osc-modern](https://github.com/maoiscat/mpv-osc-modern) |
 
 ---
