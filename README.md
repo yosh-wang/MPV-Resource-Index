@@ -79,7 +79,7 @@
 | mpv.net | 基于.NET图形界面 | [mpv.net](https://github.com/mpvnet-player/mpv.net) | — | — |
 | mpv.net-DW | mpv.net定制版 | [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) | — | — |
 | mpv-Yaozhi 🔥 | 重构内核 / 自制UI / 全功能 | [mpv-Yaozhi](https://github.com/Yaozhil/mpv-config) | — | — |
-| 088uiop/mpv.lite_config 🔥 | 轻量便携 / 支持弹幕 | [088uiop/mpv.lite_config](https://github.com/088uiop/mpv.lite_config) | — | — |
+| 088uiop/mpv.lite 🔥 | 轻量便携 / 支持弹幕 | [088uiop/mpv.lite_config](https://github.com/088uiop/mpv.lite_config) | — | — |
 
 ---
 
