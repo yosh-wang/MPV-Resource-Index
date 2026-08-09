@@ -80,7 +80,7 @@
 | mpv.net-DW | mpv.net定制版 | [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) | — | — |
 | mpv-Yaozhi 🔥 | 重构内核 / 自制UI / 全功能 | [mpv-Yaozhi](https://github.com/Yaozhil/mpv-config) | — | — |
 | 088uiop/mpv.lite 🔥 | 轻量便携 / 支持弹幕 | [088uiop/mpv.lite_config](https://github.com/088uiop/mpv.lite_config) | — | — |
-| gaoxing64/MPV-lazy-full 🔥 | 暴力整合包 / MEMC补帧 / 超分辨率 / 降噪 / VapourSynth | [MPV-lazy-full](https://github.com/gaoxing64/MPV-lazy-full) | — | — |
+| gaoxing64/MPV-lazy-full 🔥 | 补帧超分降噪 / VapourSynth | [MPV-lazy-full](https://github.com/gaoxing64/MPV-lazy-full) | — | — |
 
 ---
 
