@@ -80,7 +80,7 @@
 | mpv.net-DW | mpv.net定制版 | [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) | [微云下载](https://share.weiyun.com/tJynlvQN) | [夸克下载](https://pan.quark.cn/s/3b9e1ead8040) |
 | mpv-Yaozhi 🔥 | 重构内核 / 自制UI / 全功能 | [mpv-Yaozhi](https://github.com/Yaozhil/mpv-config) | [微云下载](https://share.weiyun.com/ct3fq1j8) | [夸克下载](https://pan.quark.cn/s/00905cb7e42d) |
 | 088uiop/mpv.lite 🔥 | 轻量便携 / 支持弹幕 | [088uiop/mpv.lite_config](https://github.com/088uiop/mpv.lite_config) | [微云下载](https://share.weiyun.com/RRaWPGsd) | [夸克下载](https://pan.quark.cn/s/80ec35d13d13) |
-| gaoxing64/MPV-lazy-full 🔥 | 补帧超分降噪 / VapourSynth | [MPV-lazy-full](https://github.com/gaoxing64/MPV-lazy-full) | [微云下载](https://share.weiyun.com/DBVq5W1x) | [夸克下载](https://pan.quark.cn/s/062cf7aab672) |
+| gaoxing64/mpv-lazy-full 🔥 | 补帧超分降噪 / VapourSynth | [MPV-lazy-full](https://github.com/gaoxing64/MPV-lazy-full) | [微云下载](https://share.weiyun.com/DBVq5W1x) | [夸克下载](https://pan.quark.cn/s/062cf7aab672) |
 
 ---
 
