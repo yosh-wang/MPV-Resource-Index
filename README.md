@@ -106,6 +106,7 @@
 | auto_bluray 🔥 | 蓝光原盘 ISO 自动挂载播放方案 | [yosh-wang/auto_bluray-ISO](https://github.com/yosh-wang/auto_bluray-ISO-) |
 | uosc Video Tags 🔥 | 视频技术标签模块-左下角 | [yosh-wang/uosc-video-tags](https://github.com/yosh-wang/uosc-video-tags) |
 | startup-format-logos 🔥 | 启动时显示视频/音频格式标识-右上角 | [yosh-wang/mpv-startup-format-logos](https://github.com/yosh-wang/mpv-startup-format-logos) |
+| hdr-auto-toggle  🔥 | hdr自动切换 | [mpv-hdr-auto-toggle]([https://github.com/yosh-wang/mpv-startup-format-logos](https://github.com/yosh-wang/mpv-hdr-auto-toggle)) |
 
 ---
 
