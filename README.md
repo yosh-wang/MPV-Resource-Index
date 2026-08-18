@@ -128,8 +128,6 @@
 | 资源 | GITHUB.链接 |
 |------|------|
 | AI 字幕主讨论 🔥 | https://github.com/dyphire/mpv-config/discussions/164 |
-| 设置教程 1 | https://github.com/dyphire/mpv-config/discussions/164#discussioncomment-11819196 |
-| 设置教程 2 | https://github.com/dyphire/mpv-config/discussions/164#discussioncomment-11944171 |
 
 ---
 
