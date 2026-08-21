@@ -107,6 +107,7 @@
 | uosc Video Tags 🔥 | 视频技术标签模块-左下角 | [yosh-wang/uosc-video-tags](https://github.com/yosh-wang/uosc-video-tags) |
 | startup-format-logos 🔥 | 启动时显示视频/音频格式标识-右上角 | [yosh-wang/mpv-startup-format-logos](https://github.com/yosh-wang/mpv-startup-format-logos) |
 | hdr-auto-toggle  🔥 | hdr自动切换 | [mpv-hdr-auto-toggle](https://github.com/yosh-wang/mpv-hdr-auto-toggle) |
+| MPV-Resource-Index  🔥 | mpv资源大全 | [MPV-Resource-Index](https://github.com/yosh-wang/MPV-Resource-Index) |
 
 ---
 
