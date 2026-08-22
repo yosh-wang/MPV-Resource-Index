@@ -27,10 +27,7 @@
       <table>
         <tr>
           <td align="center">
-            <img src="QQ Group1.jpg" alt="QQ群二维码" width="200">
-          </td>
-          <td align="center">
-            <img src="QQ Group3.jpg" alt="群内讨论截图" width="200">
+            <img src="QQ Group1.png" alt="QQ群二维码" width="200">
           </td>
           <td align="center">
             <img src="QQ Group2.png" alt="群内讨论截图" width="200">
