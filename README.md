@@ -69,18 +69,18 @@
 
 ---
 
-### 3. 整合包推荐（带图形界面 UI / 配置文件）🔥🔥🔥🔥🔥
+### 整合包推荐（带图形界面 UI / 配置文件）🔥
 
-| 项目 | 说明 | GITHUB链接 | 微云下载 | 夸克下载 |
-|------|------|------|----------|----------|
-| dyphire/mpv-config 🔥 | 杜比视界 / HDR 直通 / 全配置 | [dyphire/mpv-config](https://github.com/dyphire/mpv-config) | [微云下载](https://share.weiyun.com/yT0v48Fm) | [夸克下载](https://pan.quark.cn/s/06e105d5a34d) |
-| hooke007/mpv_PlayKit 🔥 | 超分补帧/ 懒人包 | [hooke007/mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit) | [微云下载](https://share.weiyun.com/EmG9jBG2) | [夸克下载](https://pan.quark.cn/s/bb8a104dd066) |
-| MPV-EASY-Player 🔥 | 开箱即用的图形界面播放器 | [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | [微云下载](https://share.weiyun.com/UGIn1bGz) | [夸克下载](https://pan.quark.cn/s/6c19322f8eba) |
-| mpv.net | 基于.NET图形界面 | [mpv.net](https://github.com/mpvnet-player/mpv.net) | [微云下载](https://share.weiyun.com/yNTEBzzi) | [夸克下载](https://pan.quark.cn/s/c2723d37e35c) |
-| mpv.net-DW | mpv.net定制版 | [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) | [微云下载](https://share.weiyun.com/tJynlvQN) | [夸克下载](https://pan.quark.cn/s/3b9e1ead8040) |
-| mpv-Yaozhi 🔥 | 重构内核 / 自制UI / 全功能 | [mpv-Yaozhi](https://github.com/Yaozhil/mpv-config) | [微云下载](https://share.weiyun.com/ct3fq1j8) | [夸克下载](https://pan.quark.cn/s/00905cb7e42d) |
-| 088uiop/mpv.lite 🔥 | 超分补帧 / 支持弹幕 | [088uiop/mpv.lite_config](https://github.com/088uiop/mpv.lite_config) | [微云下载](https://share.weiyun.com/RRaWPGsd) | [夸克下载](https://pan.quark.cn/s/80ec35d13d13) |
-| gaoxing64/lazy-full 🔥 | 超分补帧 / VapourSynth | [MPV-lazy-full](https://github.com/gaoxing64/MPV-lazy-full) | [微云下载](https://share.weiyun.com/DBVq5W1x) | [夸克下载](https://pan.quark.cn/s/062cf7aab672) |
+| 项目 | 说明 | GitHub 链接 | 微云下载 | 夸克下载 |
+|------|------|------------|----------|----------|
+| **dyphire/mpv-config** 🔥 | 杜比视界 / HDR 直通 / 全配置 | [dyphire/mpv-config](https://github.com/dyphire/mpv-config) | [微云下载](https://share.weiyun.com/yT0v48Fm) | [夸克下载](https://pan.quark.cn/s/06e105d5a34d) |
+| **hooke007/mpv_PlayKit** 🔥 | 超分补帧 / 懒人包 | [hooke007/mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit) | [微云下载](https://share.weiyun.com/EmG9jBG2) | [夸克下载](https://pan.quark.cn/s/bb8a104dd066) |
+| **mpv-Yaozhi** 🔥 | 重构内核 / 自制UI / 全功能 | [mpv-Yaozhi](https://github.com/Yaozhil/mpv-config) | [微云下载](https://share.weiyun.com/ct3fq1j8) | [夸克下载](https://pan.quark.cn/s/00905cb7e42d) |
+| **088uiop/mpv.lite** 🔥 | 超分补帧 / 支持弹幕 | [088uiop/mpv.lite_config](https://github.com/088uiop/mpv.lite_config) | [微云下载](https://share.weiyun.com/RRaWPGsd) | [夸克下载](https://pan.quark.cn/s/80ec35d13d13) |
+| **MPV-EASY-Player** 🔥 | 开箱即用的图形界面播放器 | [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | [微云下载](https://share.weiyun.com/UGIn1bGz) | [夸克下载](https://pan.quark.cn/s/6c19322f8eba) |
+| **mpv.net** | 基于 .NET 图形界面 | [mpv.net](https://github.com/mpvnet-player/mpv.net) | [微云下载](https://share.weiyun.com/yNTEBzzi) | [夸克下载](https://pan.quark.cn/s/c2723d37e35c) |
+| **mpv.net-DW** | mpv.net 定制版 | [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) | [微云下载](https://share.weiyun.com/tJynlvQN) | [夸克下载](https://pan.quark.cn/s/3b9e1ead8040) |
+| **gaoxing64/lazy-full** 🔥 | 超分补帧 / VapourSynth | [MPV-lazy-full](https://github.com/gaoxing64/MPV-lazy-full) | [微云下载](https://share.weiyun.com/DBVq5W1x) | [夸克下载](https://pan.quark.cn/s/062cf7aab672) |
 
 ---
 
