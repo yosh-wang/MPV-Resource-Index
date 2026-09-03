@@ -16,7 +16,7 @@
       <table>
         <tr><td><strong>QQ ①群</strong></td><td><a href="https://qm.qq.com/q/KQZsl4wFmG">1097053691</a></td></tr>
         <tr><td><strong>QQ ②群</strong></td><td><a href="https://qm.qq.com/q/KDxk01ukwe">1104144778</a></td></tr>
-        <tr><td><strong>群成员</strong></td><td>2000+36</td></tr>
+        <tr><td><strong>群成员</strong></td><td>2000，36+</td></tr>
         <tr><td><strong>群性质</strong></td><td>热心发电·免费交流</td></tr>
         <tr><td><strong>分享内容</strong></td><td>配置/脚本/着色器/懒人包</td></tr>
         <tr><td><strong>适合人群</strong></td><td>新手入门·玩家折腾·开发交流</td></tr>
