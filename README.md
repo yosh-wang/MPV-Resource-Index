@@ -129,6 +129,7 @@
 
 | 资源 | GITHUB.链接 |
 |------|------|
+| AI 字幕教程 🔥 | https://github.com/yosh-wang/mpv-AI-sub-fastwhisper |
 | AI 字幕仓库 🔥 | https://github.com/dyphire/mpv-sub-fastwhisper |
 | AI 字幕主讨论 🔥 | https://github.com/dyphire/mpv-config/discussions/164 |
 
