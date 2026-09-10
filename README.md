@@ -96,6 +96,7 @@
 | mpvEx | 轻量化精简版本 | [mpvEx](https://github.com/marlboro-advance/mpvEx) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
 | mpvEx-CN | mpvEx 中文定制版 | [mpvEx-CN](https://github.com/azxcvn/mpvEx-CN) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
 | Android TV (mpvNova) | 专为 Android TV 优化 | [mpvNova](https://github.com/Laskco/mpvNova) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| JekPlayer 🆕 | 聚合网盘/局域网/媒体服务器/B站超分 | [JekPlayer](https://github.com/MaxWayne10/JekPlayer) | [微云下载](https://share.weiyun.com/G2sdKf5O) | [夸克下载](https://pan.quark.cn/s/a6d4523df8f5) |
 
 ---
 
