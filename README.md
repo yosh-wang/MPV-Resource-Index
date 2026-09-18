@@ -105,6 +105,7 @@
 | 项目 | 说明 | GITHUB.链接 |
 |------|------|------|
 | stats.lua 汉化版 🔥 | 播放统计信息界面汉化 | [yosh-wang/mpv-stats.lua-zh](https://github.com/yosh-wang/mpv-stats.lua-zh-chinese-translation-) |
+| MPV-Settings 🔥🔥🔥 | MPV 播放器配置文件可视化设置工具 | [yosh-wang/MPV-Settings](https://github.com/yosh-wang/MPV-Settings) |
 | auto_bluray 🔥 | 蓝光原盘 ISO 自动挂载播放方案 | [yosh-wang/auto_bluray-ISO](https://github.com/yosh-wang/auto_bluray-ISO-) |
 | uosc Video Tags 🔥 | 视频技术标签模块-左下角 | [yosh-wang/uosc-video-tags](https://github.com/yosh-wang/uosc-video-tags) |
 | startup-format-logos 🔥 | 启动时显示视频/音频格式标识-右上角 | [yosh-wang/mpv-startup-format-logos](https://github.com/yosh-wang/mpv-startup-format-logos) |
