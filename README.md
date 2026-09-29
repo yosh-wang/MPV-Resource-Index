@@ -152,8 +152,9 @@
 | 项目 | 说明 | GITHUB.链接 |
 |------|------|------|
 | tomasklaen/uosc 🔥🔥🔥 | 社区 NO.1 极简现代UI，生态完善 | [tomasklaen/uosc](https://github.com/tomasklaen/uosc) |
-| Samillion/ModernZ 🔥🔥 | 高度可定制，多种布局/图标主题/颜色 | [Samillion/ModernZ](https://github.com/Samillion/ModernZ) |
-| zydezu/ModernX 🔥🔥 | Modern分支 在线视频下载/信息显示 | [zydezu/ModernX](https://github.com/zydezu/ModernX) |
+| akFace/mpv.config 🔥🔥🔥 | mpv UI懒人版，支持 Windows/macOS/Linux| [akFace/mpv.config](https://github.com/akFace/mpv.config) |
+| Samillion/ModernZ 🔥 | 高度可定制，多种布局/图标主题/颜色 | [Samillion/ModernZ](https://github.com/Samillion/ModernZ) |
+| zydezu/ModernX 🔥 | Modern分支 在线视频下载/信息显示 | [zydezu/ModernX](https://github.com/zydezu/ModernX) |
 | HarkeshBhatia/ModernH 🔥 | Netflix风格底部栏，平滑动画覆盖菜单 | [HarkeshBhatia/ModernH](https://github.com/HarkeshBhatia/ModernH) |
 | Qiyue0726/awesome-osc | FontAwesome图标，按钮自定义布局 | [Qiyue0726/awesome-osc](https://github.com/Qiyue0726/awesome-osc) |
 | FinnRaze/mpv-osc-modern-f | 音轨/字幕轨选择便捷，三种布局切换 | [FinnRaze/mpv-osc-modern-f](https://github.com/FinnRaze/mpv-osc-modern-f) |
